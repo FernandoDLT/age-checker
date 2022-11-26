@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
